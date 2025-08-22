@@ -1,7 +1,5 @@
 # solana dex site 2k
-solana dex site 3k
 
-7Jod81mmFqBjowhGAC7xt94CTtRn2GzwHVXL1bWiVYbE
 
 Only support SPL Associated Token Account deposits to utilize the token address and make “transferChecked” or “transfer” available.
 
