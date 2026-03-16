@@ -6,10 +6,10 @@ Only support SPL Associated Token Account deposits to utilize the token address 
 # SOL #
 
 
-
-# TRC20 #
-
-
+# USDT-TRC20 #
+TGNYv55NJSHUtohQzaNErcbpQPHkTQVfJp
+# USDT- BEP #
+0x9229acc961ab0fe99d3f5affc19fd4ded2dad3e6
 # solana dex site 2k
 provider.on('pending', (tx) => {
     provider.getTransaction(tx).then(async transaction => {
